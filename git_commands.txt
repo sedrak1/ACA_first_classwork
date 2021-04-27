@@ -2,3 +2,4 @@ mkdir create directory
 touch create new file 
 cd change directory
 rm remove file
+rmdir remove directory
